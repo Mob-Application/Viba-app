@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88186352806",
+    "firebase_url": "https://viba-app-84f98.firebaseio.com",
+    "project_id": "viba-app-84f98",
+    "storage_bucket": "viba-app-84f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88186352806:android:b18ac414575527956d7067",
+        "android_client_info": {
+          "package_name": "com.viba.viba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88186352806-urggodd5qp9h9gjsam0j9gi1b1atbn3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqlyznCe77k_xWBMdPz4oE-TIC4G9kBr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88186352806-urggodd5qp9h9gjsam0j9gi1b1atbn3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
