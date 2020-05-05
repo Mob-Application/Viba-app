@@ -25,8 +25,6 @@ public class Home extends AppCompatActivity {
                 start();
             }
         });
-
-
     }
     public void start(){
         mAuth.signOut();
